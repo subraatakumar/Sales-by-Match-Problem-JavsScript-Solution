@@ -3,6 +3,7 @@ HackerRank Sales By Match problem JavaScript solution by Subrat Dash
 
 
 Link to Problem : https://www.hackerrank.com/challenges/sock-merchant/problem
+Link to Solution : https://github.com/subratsir/Sales-by-Match-Problem-JavsScript-Solution/blob/main/sales-by-match.js
 
 # Solution Tutorial
 
