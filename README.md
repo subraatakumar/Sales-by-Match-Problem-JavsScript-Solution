@@ -7,4 +7,4 @@ Link to Solution : https://github.com/subratsir/Sales-by-Match-Problem-JavsScrip
 
 # Solution Tutorial
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GU9Tezw5YoQ/0.jpg)](https://www.youtube.com/watch?v=GU9Tezw5YoQ)
+[![Sales By Match Solution on Youtube](https://img.youtube.com/vi/GU9Tezw5YoQ/0.jpg)](https://www.youtube.com/watch?v=GU9Tezw5YoQ)
