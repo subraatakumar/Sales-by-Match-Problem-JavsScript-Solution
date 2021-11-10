@@ -34,10 +34,10 @@ function readLine() {
 function sockMerchant(n, ar) {
     // Write your code here
     let pairs = 0;
-     ar.sort(function(a, b) => {
-         return a - b;
-     });
-    //ar.sort();
+    // ar.sort((a, b) => {
+    //     return a - b;
+    // });
+    ar.sort();
     for(let i=0; i< ar.length; i++){
         console.log(i)
         if(ar[i] == ar[i+1]){
